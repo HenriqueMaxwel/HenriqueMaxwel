@@ -28,8 +28,5 @@
   <img align="right" alt="Henrique-gif" src="https://tenor.com/lCrGshfDFJW.gif">
 </div>
 
-<img src="https://raw.githubusercontent.com/HenriqueMaxwel/HenriqueMaxwel/output/snake.svg" alt="Snake animation" />
-
-###
 
 ##
