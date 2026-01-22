@@ -8,10 +8,9 @@
 
 ###
 
-<h2 align="left">I'm a 17-year-old aspiring Software Engineer from Brazil.
+<p align="left">I'm a 17-year-old aspiring Software Engineer from Brazil.
 Currently focused on learning Python and Backend Development. </h2>
 
-<p align="left">
 🔹 Main interests:
 - Backend APIs
 - Software Engineering fundamentals
