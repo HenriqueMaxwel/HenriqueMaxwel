@@ -4,11 +4,24 @@
 
 ###
 
-<h1 align="center">Hi, im Henrique Maxwel! 👋</h1>
+<h1 align="center">Hi, I'm Henrique Maxwel! 👋</h1>
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Python<br>- 📫 you can reach me on instagram or email: @henriquemwndb | henriqueenis.dev@gmail.com <br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: Im brazilian, im 17yrs old and, currently studding  Software Engineering, so i can work with it and more in the future</p>
+<p align="left">I'm a 17-year-old aspiring Software Engineer from Brazil.
+Currently focused on learning Python and Backend Development.
+
+🔹 Main interests:
+- Backend APIs
+- Software Engineering fundamentals
+- Robotics & Automation
+
+🔹 Tech:
+- Python
+- Git & GitHub
+- FastAPI (learning)
+
+📫 Contact: email: henriqueenis.dev@gmail.com | LinkedIn: Henrique Maxwel</p>
 
 ###
 
@@ -30,13 +43,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -47,7 +56,7 @@
 
 <div align="left">
   <a href="https://www.instagram.com/henriquemwndb?igsh=a2Z5ZTloaXViZWVo&utm_source=qr"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/></a>
-  <a href"https://www.linkedin.com/in/henrique-maxwel-1425943a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
+  <<a href="https://www.linkedin.com/in/henrique-maxwel-1425943a6"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
